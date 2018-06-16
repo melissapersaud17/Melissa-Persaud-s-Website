@@ -1,0 +1,132 @@
+body{
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  font-size: 60px;
+  line-height: default;
+  color:#000000;
+}
+
+.border{
+  border:0;
+  width: 90%;
+  height:1px;
+  background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0, 0, 0, 0.75), rgba(0,0,0,0));
+}
+
+.navbar{
+  text-align: center;
+  font-size: 30px;
+  list-style: none;
+  padding: 10px 10px 10px 10px;
+}
+
+.navbar > li{
+  display: inline-block;
+  width: 200px;
+}
+
+.navbar > li > a{
+  text-decoration: none;
+  color:#000000;
+  font-family: 'Dancing Script', cursive;
+}
+
+.navbar >li>a:hover{
+  color:gray;
+  padding-top: 10;
+}
+
+.WebDev{
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 40px;
+}
+
+.WebDevDescription{
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+  line-height: 36pt;
+}
+
+.wingding{
+  text-align: center;
+}
+
+.photography{
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.photographydescription{
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+  line-height: 36pt;
+}
+
+.photographyimages{
+  display: inline;
+}
+
+#portage{
+  padding-right: 25px;
+}
+
+.wingding{
+  text-align: center;
+}
+
+.computergraphics{
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.computergraphicsdescription{
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+  line-height: 36pt;
+}
+
+.wingding{
+  text-align: center;
+}
+
+.travelposter{
+  width: 600px;
+  height: 900px;
+}
+
+.webpagedesign{
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.webpagedesigndescription{
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+  line-height: 36pt;
+}
+
+.cafedesign{
+  width: 900px;
+  height: 800px;
+}
+
+.wingding{
+  text-align: center;
+}
